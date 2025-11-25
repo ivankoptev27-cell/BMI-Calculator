@@ -156,7 +156,7 @@ output_label = tkinter.Label(
     master=window,
     text='0',
     bg='lightblue',
-    fg='grey5',
+    fg='grey100',
     font=('arial', 25)
 )    
 output_label.place(x=380, y=350)
